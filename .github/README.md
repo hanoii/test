@@ -1,1 +1,3 @@
-# test\n\nFile in .github
+# test
+
+File in .github
